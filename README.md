@@ -1,1 +1,1 @@
-# mysite
+# Naked HTML Local Site
